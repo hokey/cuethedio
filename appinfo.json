@@ -1,0 +1,9 @@
+{
+	"id": "com.hoketronics.cuethedio",
+	"version": "0.0.1",
+	"vendor": "Hoketronics",
+	"type": "web",
+	"main": "index.html",
+	"title": "Cue the Dio",
+	"icon": "icon.png"
+}

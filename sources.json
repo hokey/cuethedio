@@ -1,0 +1,8 @@
+[	
+    {"source": "app\/assistants\/stage-assistant.js"},
+	{"source": "app\/models\/cookie.js"},
+    {
+        "source": "app\/assistants\/dioObject-assistant.js",
+        "scenes": "dioObject"
+    }
+]
