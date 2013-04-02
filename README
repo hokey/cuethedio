@@ -1,3 +1,5 @@
 Sometimes, somewhere, you just need to cue your song and play it as fast as you can.  Well, now you can on a webOS device!  Starting the app plays the song you choose with no extra button pushes.  If there is no song it remembers, it will ask you for one!  Check it out.
 
 This is basically my first attempt at a webOS app.  It pulls together some concepts like cookies, HTML5 Audio Objects, and the audio FilePicker widget/app.  Feel free to play around with it.
+
+Seeings as Palm is no more, please take this as a jumping off point for WebOS and enjoy exploring!
